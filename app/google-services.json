@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "109667432738",
+    "firebase_url": "https://myanmar13-6515b.firebaseio.com",
+    "project_id": "myanmar13-6515b",
+    "storage_bucket": "myanmar13-6515b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109667432738:android:590b2db36575b257",
+        "android_client_info": {
+          "package_name": "com.example.okamototakuya.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109667432738-ejufoepa447c171723eftevgh12g41gt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.okamototakuya.myapplication",
+            "certificate_hash": "D399A7EC06CB98F152E27996CAF5036A0E06B9FF"
+          }
+        },
+        {
+          "client_id": "109667432738-5hiloniovunoq6k7q4bqeqt8c0hce56g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB182rX_JJSJzKMeBYlgsOGwZwq_7b_Xic"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109667432738-5hiloniovunoq6k7q4bqeqt8c0hce56g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109667432738:android:5a87a4505fb7fe05",
+        "android_client_info": {
+          "package_name": "com.example.okamototakuya.myapplication3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109667432738-rmjtbjofeu27h6b139pjk5eg523lfi4m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.okamototakuya.myapplication3",
+            "certificate_hash": "D399A7EC06CB98F152E27996CAF5036A0E06B9FF"
+          }
+        },
+        {
+          "client_id": "109667432738-5hiloniovunoq6k7q4bqeqt8c0hce56g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB182rX_JJSJzKMeBYlgsOGwZwq_7b_Xic"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109667432738-5hiloniovunoq6k7q4bqeqt8c0hce56g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
